@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "423401119502",
+    "project_id": "examfinal3-c7ce0",
+    "storage_bucket": "examfinal3-c7ce0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423401119502:android:dca6bdf3526dc6495b815f",
+        "android_client_info": {
+          "package_name": "uz.gita.examfinal3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423401119502-cph3fngi1p1vtaaa6cgtc6n390pn9dcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB32ZmqvXcXTFbut9eWOjjkIgFlepaj6AI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423401119502-cph3fngi1p1vtaaa6cgtc6n390pn9dcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
